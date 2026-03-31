@@ -15,17 +15,20 @@ DTO-based response
 
 Validation Rules applied are :
 Name-
-  Required
+  Required,
   Max 20 characters
+  
 Email-
-  Required
+  Required,
   Must be valid format
+  
 Password-
-  8–20 characters
+  8–20 characters,
+  
   Must contain:
-  Uppercase letter
-  Lowercase letter
-  Number
+  Uppercase letter,
+  Lowercase letter,
+  Number,
   Special character
   
 <img width="1024" height="417" alt="image" src="https://github.com/user-attachments/assets/13161332-4410-428b-b026-755504e12975" />
