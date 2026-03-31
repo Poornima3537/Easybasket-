@@ -4,13 +4,13 @@ This is a simple User Management REST API built using Spring Boot.
 It demonstrates a clean layered architecture with validation, DTO usage, and exception handling.
 
 Features it has:
-Create User
-Get All Users
-Get User by ID
-Update User
-Delete User
-Input Validation using Jakarta Validation
-Global Exception Handling
+Create User,
+Get All Users,
+Get User by ID,
+Update User,
+Delete User,
+Input Validation using Jakarta Validation,
+Global Exception Handling,
 DTO-based response
 
 Validation Rules applied are :
